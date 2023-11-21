@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "What is your preferred season?",
+    "answers": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "How do you feel about remote work?",
+    "answers": [
+      "Love it",
+      "Prefer office",
+      "Neutral"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Coffee or Tea?",
+    "answers": [
+      "Coffee",
+      "Tea",
+      "Neither"
+    ]
+  }
+]
